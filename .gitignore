@@ -1,0 +1,23 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NumPy / data
+*.npz
+*.npy
+
+# Outputs
+*.json
